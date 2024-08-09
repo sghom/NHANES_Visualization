@@ -37,8 +37,6 @@ Seaborn
 SciPy
 
 Usage
-Clone this repository: git clone https://github.com/yourusername/your-repository.git
-Navigate to the directory: cd your-repository
 Ensure all dependencies are installed.
 Run the scripts to generate visualizations and analyses from the NHANES dataset.
 Feel free to modify and adapt the scripts to suit your own data analysis needs.
