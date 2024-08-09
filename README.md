@@ -1,4 +1,4 @@
-# NHANES_Visualization
+# NHANES Data Visualization
 Data Analysis and Visualization with NHANES Data
 This repository contains Python scripts for analyzing and visualizing data from the NHANES 2015-2016 dataset. The analyses and visualizations performed include various aspects such as relationships between body measurements, demographic factors, and blood pressure readings. The following key components are included:
 
